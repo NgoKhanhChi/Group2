@@ -18,7 +18,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12" id="bg">
-          <h3 class="text-center">Users Management</h3>
+          <h3 class="text-center">User Management</h3>
         </div>
       </div>
     </div>
