@@ -212,7 +212,7 @@
           <div class="modal-content">
             <div class="modal-header">
               <button class="close" type="button" data-dismiss="modal">X</button>
-              <h4 class="modal-title">Add New User</h4>
+              <h4 class="modal-title">Add new user</h4>
             </div>
             
             <div class="modal-body">
