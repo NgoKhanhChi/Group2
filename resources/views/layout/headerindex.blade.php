@@ -46,8 +46,8 @@
   
         <nav id="navbar" class="navbar">
           <ul>
-            <li class="nav-item"><a class="nav-link" href="{{ route('index')}}">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="">Product</a></li>
+            <li class="nav-item"><a class="nav-link" href="{{ route('index')}}">HomePage</a></li>
+            <li class="nav-item"><a class="nav-link" href="">Products</a></li>
             <li class="nav-item"><a class="nav-link" href="{{ route('dashboard')}}">Management</a></li>
             <li>
               <form action="{{ route('products.search') }}" method="GET">
