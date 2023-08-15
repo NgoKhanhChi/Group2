@@ -149,7 +149,7 @@
                                 <br>
                                 <a>Price : {{ $product->price }}</a>
                                  <br>   
-                                <button type="button" class="btn btn-primary">Add to cart</button>    
+                                <button type="button" class="btn btn-primary">Add To Cart</button>    
                         </div>
                     </div>	
                 @endforeach
