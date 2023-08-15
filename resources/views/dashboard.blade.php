@@ -6,7 +6,7 @@
         <!-- Main Content -->
         <div id="content">  
             <div class="container-fluid">
-                <!-- Hiển thị nội dung của từng trang con-->
+                <!-- Hiển thị nội dung của từng trang -->
                 @yield('content')
             </div>
         </div>
